@@ -1,0 +1,7 @@
+sms:
+  aliMsg:
+    password: 123456
+    name: ali
+  txMsg:
+    password: 123456
+    name: ali
